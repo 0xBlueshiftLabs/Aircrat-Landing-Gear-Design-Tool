@@ -35,11 +35,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@TraderTDF](https://twitter.com/TraderTDF)
-
 LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
 
-Project Link: [https://github.com/Elisik/Aircrat-Landing-Gear-Design-Tool](https://github.com/Elisik/Aircrat-Landing-Gear-Design-Tool)
+Project Link: [https://github.com/0xBlueshiftLabs/Aircrat-Landing-Gear-Design-Tool](https://github.com/0xBlueshiftLabs/Aircrat-Landing-Gear-Design-Tool)
 
 
 
